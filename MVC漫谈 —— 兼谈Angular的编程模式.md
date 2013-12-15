@@ -1,5 +1,12 @@
 MVC漫谈 —— 兼谈Angular的编程模式
 =========
+
+作者：[@asnowwolf](https://github.com/asnowwolf)
+
+版权：[CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) 
+
+欢迎转载，请保留原文链接 https://github.com/jingyanjiaoliu/architecture/blob/master/MVC%E6%BC%AB%E8%B0%88%20%E2%80%94%E2%80%94%20%E5%85%BC%E8%B0%88Angular%E7%9A%84%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%BC%8F.md
+
 MVC是个老生常谈的话题，不过仍然有必要从剖析这个概念说起。
 
 MVC是什么？
